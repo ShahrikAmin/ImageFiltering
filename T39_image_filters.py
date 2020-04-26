@@ -1,6 +1,6 @@
 # Milestone 3, P8
 # Team 39
-# Date of submission: Thursday, April 2, 2020
+# Date of completion: Thursday, April 2, 2020
 
 # Authors: Shahrik Amin 10115583, Hayden Arms 101143346,
 #          Ryan Burry 101155625, Sathvik Villuri 101171739
